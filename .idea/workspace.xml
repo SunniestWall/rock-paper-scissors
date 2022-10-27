@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6788ce8-6d59-46ce-8a4c-6baade7a3c0a" name="Changes" comment="Added some lines in the beginning and at the end.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-    </list>
+    <list default="true" id="a6788ce8-6d59-46ce-8a4c-6baade7a3c0a" name="Changes" comment="some other adjustments all related to style no major changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666863346417</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some other adjustments all related to style no major changes">
+      <created>1666863958253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666863958253</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,6 +64,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added some lines in the beginning and at the end." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some lines in the beginning and at the end." />
+    <MESSAGE value="some other adjustments all related to style no major changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some other adjustments all related to style no major changes" />
   </component>
 </project>
