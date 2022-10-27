@@ -7,7 +7,7 @@ tie = 0
 print()
 print('x' * 198)
 print()
-print(' ' * 100, 'ROCK, PAPER, SCISSORS')
+print(' ' * 90, 'ROCK, PAPER, SCISSORS')
 print()
 print(f'{win} Wins, {loss} Losses, {tie} Ties')
 
