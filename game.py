@@ -4,16 +4,18 @@ import sys
 win = 0
 loss = 0
 tie = 0
-print('ROCK, PAPER, SCISSORS')
+print()
+print('x' * 1000)
+print(' ' * 70, 'ROCK, PAPER, SCISSORS')
 print()
 print(f'{win} Wins, {loss} Losses, {tie} Ties')
-
 
 while True:
     print()
     user_input = input('Enter your move: ROCK, PAPER, SCISSORS or QUIT : ')
 
     if user_input == 'ROCK':
+        print()
         print('ROCK versus...')
         computer_move = random.randint(1, 3)
         if computer_move == 1:
@@ -26,6 +28,7 @@ while True:
             print('SCISSORS')
             win += 1
     elif user_input == 'PAPER':
+        print()
         print('PAPER versus...')
         computer_move = random.randint(1, 3)
         if computer_move == 1:
@@ -38,6 +41,7 @@ while True:
             print('SCISSORS')
             loss += 1
     elif user_input == 'SCISSORS':
+        print()
         print('SCISSORS versus...')
         computer_move = random.randint(1, 3)
         if computer_move == 1:
@@ -54,6 +58,7 @@ while True:
         print()
         print('Thank You For Playing.')
         print(f'Your Score at the end is : {win} Wins, {loss} Losses, {tie} Ties.')
+        print('x' * 1000)
         sys.exit()
     else:
         print()
