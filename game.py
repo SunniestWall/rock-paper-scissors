@@ -60,7 +60,7 @@ while True:
         print('Thank You For Playing.')
         print(f'Your Score at the end is : {win} Wins, {loss} Losses, {tie} Ties.')
         print()
-        print('x' * 1000)
+        print('x' * 1010)
         sys.exit()
     else:
         print()
