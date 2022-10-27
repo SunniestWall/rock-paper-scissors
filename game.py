@@ -5,7 +5,7 @@ win = 0
 loss = 0
 tie = 0
 print()
-print('x' * 100)
+print('x' * 198)
 print()
 print(' ' * 100, 'ROCK, PAPER, SCISSORS')
 print()
@@ -60,7 +60,7 @@ while True:
         print('Thank You For Playing.')
         print(f'Your Score at the end is : {win} Wins, {loss} Losses, {tie} Ties.')
         print()
-        print('x' * 1000)
+        print('x' * 198)
         sys.exit()
     else:
         print()
