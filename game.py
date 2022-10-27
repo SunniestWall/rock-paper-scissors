@@ -57,8 +57,8 @@ while True:
 
     elif user_input == 'QUIT':
         print()
-        print('Thank You For Playing.')
-        print(f'Your Score at the end is : {win} Wins, {loss} Losses, {tie} Ties.')
+        print(' ' * 88, 'Thank You For Playing.')
+        print(' ' * 80, f'Your Score at the end is : {win} Wins, {loss} Losses, {tie} Ties.')
         print()
         print('x' * 198)
         sys.exit()
