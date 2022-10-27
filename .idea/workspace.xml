@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6788ce8-6d59-46ce-8a4c-6baade7a3c0a" name="Changes" comment="some other adjustments all related to style no major changes" />
+    <list default="true" id="a6788ce8-6d59-46ce-8a4c-6baade7a3c0a" name="Changes" comment="some other adjustments all related to style no major changes">
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
