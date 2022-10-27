@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6788ce8-6d59-46ce-8a4c-6baade7a3c0a" name="Changes" comment="">
+    <list default="true" id="a6788ce8-6d59-46ce-8a4c-6baade7a3c0a" name="Changes" comment="Added some lines in the beginning and at the end.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666862827040</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added some lines in the beginning and at the end.">
+      <created>1666863346417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666863346417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -48,5 +57,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added some lines in the beginning and at the end." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some lines in the beginning and at the end." />
   </component>
 </project>
